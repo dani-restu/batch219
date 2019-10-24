@@ -16,6 +16,6 @@ public class Practice04 {
         radius = scan.nextDouble();
         // calculate area
         area = pi * (radius*radius);
-
+        System.out.println("Luas lingkaran: " + area);
     }
 }
