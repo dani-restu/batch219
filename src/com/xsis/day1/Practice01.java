@@ -6,7 +6,7 @@ public class Practice01 {
         System.out.println(args[1]);
         System.out.println(args[2]);
         System.out.println("hello Xsis Academy");
-        System.out.println("hello /nAcademy");
-        System.out.println("Hello /tAcademy");
+        System.out.println("hello \nAcademy");
+        System.out.println("Hello \tAcademy");
     }
 }
